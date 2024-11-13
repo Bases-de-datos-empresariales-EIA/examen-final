@@ -66,7 +66,8 @@ Incluye preguntas adicionales que te generen interés y no te limites a responde
 
 ### Entrega
 
-Asegúrate de entregar:
-- El archivo SQL con los queries.
-- El archivo Excel con las gráficas generadas.
-- El documento de análisis de negocio en formato PDF o Word.
+Enviar a daniel.saldarriaga@eia.edu.co un sólo documento que muestre:
+1. Los queries con su resultado del punto 1.
+2. Las gráficas del punto 2.
+3. Los queries del punto 2.
+4. El análisis del punto 3.
