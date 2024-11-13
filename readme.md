@@ -4,6 +4,17 @@
 
 Este examen está dividido en tres secciones que corresponden a los aspectos evaluados en la materia: consultas SQL, análisis gráfico en Excel y análisis de negocio. Lee atentamente cada sección y sigue las instrucciones específicas.
 
+## Descripción de la Base de Datos
+
+La base de datos utilizada para este examen corresponde a una estructura de datos empresariales para una cadena de tiendas, Tiendas EIA. La base de datos incluye información sobre productos, categorías, proveedores, ventas, tiendas y otros aspectos críticos para la operación de la empresa. Las tablas están relacionadas para facilitar la consulta de datos y el análisis de rendimiento de ventas, márgenes, y distribución de necesidades.
+
+- **Esquema de conexión:** (dejar espacio para que el instructor agregue el string de conexión)
+
+### Diagrama Entidad-Relación
+
+Para comprender mejor la estructura de la base de datos, revisa el diagrama entidad-relación en el siguiente enlace:
+- [Diagrama ER de la base de datos](link_a_la_imagen_diagrama_ER)
+
 ## Sección 1: Queries (30%)
 
 Debes realizar cinco consultas SQL que permitan extraer información clave de la base de datos. Cada consulta deberá cumplir con los requerimientos específicos que se detallan a continuación. Este ejercicio tiene un valor total de 30%, es decir, 6% por cada query.
@@ -14,7 +25,7 @@ Debes realizar cinco consultas SQL que permitan extraer información clave de la
 
 3. Escribe una consulta que muestre el nombre de la tienda, el porcentaje de impuesto aplicado y el margen total para cada combinación de tienda e impuesto. Ordena los resultados por margen total en orden descendente.
 
-4. Encuentra el total de ventas de cada producto en cada categoria. También, cuenta cuántos productos hay en cada categoría. Finalmente, calcula la contribucion de cada producto a la subcategoría. La contribución se calcula dividiendo el total vendido en un producto en una subcategoría entre la cantidad de productos en esa subcategoría.
+4. Encuentra el total de ventas de cada producto en cada categoría. También, cuenta cuántos productos hay en cada categoría. Finalmente, calcula la contribución de cada producto a la subcategoría. La contribución se calcula dividiendo el total vendido en un producto en una subcategoría entre la cantidad de productos en esa subcategoría.
 
 5. Genera una consulta que calcule la suma total de ventas y el margen total por cada grupo de productos, y muestra solo los grupos donde el margen dividido el total de ventas sea mayor a 0.2 (que el margen sea más del 20% de las ventas).
 
@@ -35,8 +46,10 @@ Debes generar dos gráficas en Excel utilizando los datos extraídos de la base 
 Recibirás dos gráficas prehechas. Utilizando tu conocimiento de SQL, debes crear una consulta que permita obtener los datos necesarios para cada una de las gráficas entregadas. Las gráficas que recibirás son las siguientes:
 
 1. Una gráfica de torta que muestra la distribución de ventas por necesidad, visualizando la proporción de ventas en cada necesidad.
+   - [Gráfica de Torta - Distribución de Ventas por Necesidad](link_a_la_imagen_grafica_1)
 
 2. Una gráfica de barras que muestra el total vendido por grupo.
+   - [Gráfica de Barras - Total Vendido por Grupo](link_a_la_imagen_grafica_2)
 
 ## Sección 3: Análisis de Negocio (40%)
 
@@ -48,6 +61,12 @@ Algunas preguntas que pueden guiar tu análisis son:
 - ¿Cuál es el desempeño de las tiendas en relación con los impuestos aplicados y los márgenes generados?
 - ¿Qué proveedores contribuyen más al crecimiento de ventas en necesidades específicas?
 - ¿Cuáles productos presentan alta rotación y deberían ser priorizados en inventario?
-- Incluye preguntas adicionales que te generen interés y no te limites a responder las preguntas explícitas puestas anteriormente.
 
-Este análisis debe proporcionar recomendaciones estratégicas y relevantes para la toma de decisiones por parte de la gerencia, tales como mejoras en la estrategia de productos o en las negociaciones con proveedores.
+Incluye preguntas adicionales que te generen interés y no te limites a responder las preguntas explícitas puestas anteriormente. Este análisis debe proporcionar recomendaciones estratégicas y relevantes para la toma de decisiones por parte de la gerencia, tales como mejoras en la estrategia de productos o en las negociaciones con proveedores.
+
+### Entrega
+
+Asegúrate de entregar:
+- El archivo SQL con los queries.
+- El archivo Excel con las gráficas generadas.
+- El documento de análisis de negocio en formato PDF o Word.
