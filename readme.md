@@ -13,7 +13,7 @@ La base de datos utilizada para este examen corresponde a una estructura de dato
 ### Diagrama Entidad-Relación
 
 Para comprender mejor la estructura de la base de datos, revisa el diagrama entidad-relación en el siguiente enlace:
-- [Diagrama ER de la base de datos](link_a_la_imagen_diagrama_ER)
+- [Diagrama ER de la base de datos](./Diagrama ER.png)
 
 ## Sección 1: Queries (30%)
 
