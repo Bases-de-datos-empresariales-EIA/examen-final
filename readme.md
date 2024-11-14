@@ -19,7 +19,7 @@ schema: retail
 ```
 ### Diagrama Entidad-Relación
 
-Para comprender mejor la estructura de la base de datos, revisa el diagrama entidad-relación en el siguiente enlace:
+Para comprender mejor la estructura de la base de datos, revisa el diagrama entidad-relación a continuación:
 
 ![Diagrama ER](./er_diagram.png)
 
