@@ -27,7 +27,7 @@ Para comprender mejor la estructura de la base de datos, revisa el diagrama enti
 
 Debes realizar cinco consultas SQL que permitan extraer información clave de la base de datos. Cada consulta deberá cumplir con los requerimientos específicos que se detallan a continuación. Este ejercicio tiene un valor total de 30%, es decir, 6% por cada query.
 
-1. Genera una consulta que muestre la suma del margen total y la cantidad total de unidades vendidas para cada categoría de producto. Solo debes mostrar las categorías que hayan generado un margen total superior a $20'000.000, en orden descendente de margen total.
+1. Genera una consulta que muestre la suma del margen total y la cantidad total de unidades vendidas para cada categoría de producto. Solo debes mostrar las categorías que hayan generado un margen total superior a $20.000'000.000 (20 mil millones), en orden descendente de margen total.
 
 2. Realiza una consulta que muestre el nombre del proveedor, la necesidad de sus productos y el total de compras acumulado por proveedor y necesidad. Solo debes incluir aquellos registros que tengan un total de compras superior a $90.000'000.000 (90 mil millones).
 
