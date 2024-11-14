@@ -8,8 +8,15 @@ Este examen está dividido en tres secciones que corresponden a los aspectos eva
 
 La base de datos utilizada para este examen corresponde a una estructura de datos empresariales para una cadena de tiendas, Tiendas EIA. La base de datos incluye información sobre productos, categorías, proveedores, ventas, tiendas y otros aspectos críticos para la operación de la empresa. Las tablas están relacionadas para facilitar la consulta de datos y el análisis de rendimiento de ventas, márgenes, y distribución de necesidades.
 
-- **Esquema de conexión:** (dejar espacio para que el instructor agregue el string de conexión)
-
+## Datos de conexión
+```
+host: aws-0-us-east-1.pooler.supabase.com
+port: 6543
+database: postgres
+username: parcial.pqihitksbcrxfddfmzfg
+password: ***********
+schema: retail
+```
 ### Diagrama Entidad-Relación
 
 Para comprender mejor la estructura de la base de datos, revisa el diagrama entidad-relación en el siguiente enlace:
