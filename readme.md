@@ -55,10 +55,10 @@ Revisa las dos gráficas mostradas a continuación. Utilizando tu conocimiento d
 
 
 1. Una gráfica de torta que muestra la distribución de ventas por necesidad, visualizando la proporción de ventas en cada necesidad.
-   - [Gráfica de Torta - Distribución de Ventas por Necesidad](./ventas_por_necesidad.png)
+![Gráfica de Torta - Distribución de Ventas por Necesidad](./ventas_por_necesidad.png)
 
 2. Una gráfica de barras que muestra el total vendido por grupo.
-   - [Gráfica de Barras - Total Vendido por Grupo](./ventas_por_grupo.png)
+![Gráfica de Barras - Total Vendido por Grupo](./ventas_por_grupo.png)
 
 ## Sección 3: Análisis de Negocio (40%)
 
