@@ -45,7 +45,7 @@ Esta sección está dividida en dos partes, cada una con un valor de 15%.
 
 Debes generar dos gráficas en Excel utilizando los datos extraídos de la base de datos:
 
-1. Una gráfica de barras que muestre las ventas totales por cada categoría. Compara las diferentes categorías y presenta esta comparación visualmente en una gráfica de barras.
+1. Una gráfica de barras que muestre las ventas totales por cada categoría. Compara las diferentes categorías y presenta esta comparación visualmente en una gráfica de barras. Puedes mostrar sólo el top 10 para que la gráfica sea más sencilla.
 
 2. Una gráfica de torta que muestre el costo pagado al top 10 de proveedores.
 
