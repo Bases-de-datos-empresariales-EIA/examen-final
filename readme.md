@@ -20,7 +20,8 @@ schema: retail
 ### Diagrama Entidad-Relación
 
 Para comprender mejor la estructura de la base de datos, revisa el diagrama entidad-relación en el siguiente enlace:
-- ![Diagrama ER](./er_diagram.png)
+
+![Diagrama ER](./er_diagram.png)
 
 ## Sección 1: Queries (30%)
 
@@ -44,19 +45,20 @@ Esta sección está dividida en dos partes, cada una con un valor de 15%.
 
 Debes generar dos gráficas en Excel utilizando los datos extraídos de la base de datos:
 
-1. Una gráfica de barras que muestre las ventas totales por cada categoría de producto. Compara las diferentes categorías y presenta esta comparación visualmente en una gráfica de barras.
+1. Una gráfica de barras que muestre las ventas totales por cada categoría. Compara las diferentes categorías y presenta esta comparación visualmente en una gráfica de barras.
 
 2. Una gráfica de torta que muestre el costo pagado al top 10 de proveedores.
 
 ### Parte 2: Ingeniería Inversa de Gráficas (15%)
 
-Recibirás dos gráficas prehechas. Utilizando tu conocimiento de SQL, debes crear una consulta que permita obtener los datos necesarios para cada una de las gráficas entregadas. Las gráficas que recibirás son las siguientes:
+Revisa las dos gráficas mostradas a continuación. Utilizando tu conocimiento de SQL, debes crear una consulta que permita obtener los datos necesarios para cada una de las gráficas:
+
 
 1. Una gráfica de torta que muestra la distribución de ventas por necesidad, visualizando la proporción de ventas en cada necesidad.
-   - [Gráfica de Torta - Distribución de Ventas por Necesidad](link_a_la_imagen_grafica_1)
+   - [Gráfica de Torta - Distribución de Ventas por Necesidad](./ventas_por_necesidad.png)
 
 2. Una gráfica de barras que muestra el total vendido por grupo.
-   - [Gráfica de Barras - Total Vendido por Grupo](link_a_la_imagen_grafica_2)
+   - [Gráfica de Barras - Total Vendido por Grupo](./ventas_por_grupo.png)
 
 ## Sección 3: Análisis de Negocio (40%)
 
