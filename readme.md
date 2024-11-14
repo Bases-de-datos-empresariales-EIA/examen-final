@@ -23,7 +23,7 @@ Para comprender mejor la estructura de la base de datos, revisa el diagrama enti
 
 ![Diagrama ER](./er_diagram.png)
 
-## Sección 1: Queries (30%)
+## Punto 1: Queries (30%)
 
 Debes realizar cinco consultas SQL que permitan extraer información clave de la base de datos. Cada consulta deberá cumplir con los requerimientos específicos que se detallan a continuación. Este ejercicio tiene un valor total de 30%, es decir, 6% por cada query.
 
@@ -37,7 +37,7 @@ Debes realizar cinco consultas SQL que permitan extraer información clave de la
 
 5. Genera una consulta que calcule la suma total de ventas y el margen total por cada grupo de productos, y muestra solo los grupos donde el margen dividido el total de ventas sea mayor a 0.2 (que el margen sea más del 20% de las ventas).
 
-## Sección 2: Análisis Gráfico en Excel (30%)
+## Punto 2: Análisis Gráfico en Excel (30%)
 
 Esta sección está dividida en dos partes, cada una con un valor de 15%.
 
@@ -60,7 +60,7 @@ Revisa las dos gráficas mostradas a continuación. Utilizando tu conocimiento d
 2. Una gráfica de barras que muestra el total vendido por grupo.
 ![Gráfica de Barras - Total Vendido por Grupo](./ventas_por_grupo.png)
 
-## Sección 3: Análisis de Negocio (40%)
+## Punto 3: Análisis de Negocio (40%)
 
 Desarrolla un análisis de negocio basado en las cinco consultas realizadas en la **Sección 1** y las cuatro gráficas de la **Sección 2**. Este análisis debe ser un texto escrito y debe incluir un análisis cruzado de los datos que proporcione insights estratégicos para la gerencia de Tiendas EIA.
 
@@ -77,6 +77,6 @@ Incluye preguntas adicionales que te generen interés y no te limites a responde
 
 Enviar a daniel.saldarriaga@eia.edu.co un sólo documento que muestre:
 1. Los queries con su resultado del punto 1.
-2. Las gráficas del punto 2.
-3. Los queries del punto 2.
+2. Las gráficas del punto 2, parte 1.
+3. Los queries del punto 2, parte 2.
 4. El análisis del punto 3.
