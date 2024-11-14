@@ -33,7 +33,7 @@ Debes realizar cinco consultas SQL que permitan extraer información clave de la
 
 3. Escribe una consulta que muestre el nombre de la tienda, el porcentaje de impuesto aplicado y el margen total para cada combinación de tienda e impuesto. Ordena los resultados por margen total en orden descendente.
 
-4. Encuentra el total de ventas de cada producto en cada categoría. También, cuenta cuántos productos hay en cada categoría. Finalmente, calcula la contribución de cada producto a la subcategoría. La contribución se calcula dividiendo el total vendido en un producto en una subcategoría entre la cantidad de productos en esa subcategoría.
+4. Encuentra el total de ventas de cada producto en cada categoría. También, cuenta cuántos productos hay en cada categoría. Finalmente, calcula la contribución de cada producto a la subcategoría. La contribución se calcula dividiendo el total vendido entre la cantidad de productos en esa subcategoría.
 
 5. Genera una consulta que calcule la suma total de ventas y el margen total por cada grupo de productos, y muestra solo los grupos donde el margen dividido el total de ventas sea mayor a 0.2 (que el margen sea más del 20% de las ventas).
 
