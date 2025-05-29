@@ -41,28 +41,16 @@ Debes realizar cinco consultas SQL que permitan extraer información clave de la
 
 Esta sección está dividida en dos partes, cada una con un valor de 15%.
 
-### Parte 1: Creación de Gráficas (15%)
-
 Debes generar dos gráficas en Excel utilizando los datos extraídos de la base de datos:
 
 1. Una gráfica de barras que muestre las ventas totales por cada categoría. Compara las diferentes categorías y presenta esta comparación visualmente en una gráfica de barras. Puedes mostrar sólo el top 10 para que la gráfica sea más sencilla.
 
 2. Una gráfica de torta que muestre el costo pagado al top 10 de proveedores.
 
-### Parte 2: Ingeniería Inversa de Gráficas (15%)
-
-Revisa las dos gráficas mostradas a continuación. Utilizando tu conocimiento de SQL, debes crear una consulta que permita obtener los datos necesarios para cada una de las gráficas:
-
-
-1. Una gráfica de torta que muestra la distribución de ventas por necesidad, visualizando la proporción de ventas en cada necesidad.
-![Gráfica de Torta - Distribución de Ventas por Necesidad](./ventas_por_necesidad.png)
-
-2. Una gráfica de barras que muestra el total vendido por grupo.
-![Gráfica de Barras - Total Vendido por Grupo](./ventas_por_grupo.png)
 
 ## Punto 3: Análisis de Negocio (40%)
 
-Desarrolla un análisis de negocio basado en las cinco consultas realizadas en la **Sección 1** y las cuatro gráficas de la **Sección 2**. Este análisis debe ser un texto escrito y debe incluir un análisis cruzado de los datos que proporcione insights estratégicos para la gerencia de Tiendas EIA.
+Desarrolla un análisis de negocio basado en las consultas realizadas en la **Sección 1** y las gráficas de la **Sección 2**. Este análisis debe ser un texto escrito y debe incluir un análisis cruzado de los datos que proporcione insights estratégicos para la gerencia de Tiendas EIA.
 
 Algunas preguntas que pueden guiar tu análisis son:
 
@@ -77,6 +65,5 @@ Incluye preguntas adicionales que te generen interés y no te limites a responde
 
 Enviar a daniel.saldarriaga@eia.edu.co un sólo documento que muestre:
 1. Los queries con su resultado del punto 1.
-2. Las gráficas del punto 2, parte 1.
-3. Los queries del punto 2, parte 2.
-4. El análisis del punto 3.
+2. Las gráficas del punto 2.
+3. El análisis del punto 3.
